@@ -1,0 +1,16 @@
+{
+    "intents":[
+        {
+            "tag": "saludo",
+            "patterns":["hola", "perro"],
+            "responses":["Hola, en que puedo ayudarte", "Qué tal", "Cómo estas", "hola", "que tal"]
+
+        },
+
+        {
+            "tag": "necesidad",
+            "patterns":["hola"],
+            "responses":["hola ", "Qué tal", "Cómo estas", "hola", "que tal", "como estas"]
+        }
+    ]
+}
